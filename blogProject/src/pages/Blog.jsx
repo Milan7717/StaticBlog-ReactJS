@@ -7,13 +7,13 @@ const blogCardApi = [
   {
     heading: "Travelling",
     description: "Traveling is one of the most enriching experiences one can have. It broadens our horizons, exposes us to new cultures..",
-    image: "../public/assets/blogimg/view2.jpg",
+    image: "assets/blogimg/view2.jpg",
     link: "/travelling",
   },
   {
     heading: "Friends",
     description: "Friendship is a close and meaningful relationship between two or more people who share mutual trust, support,and understanding.",
-    image: "../public/assets/blogimg/bca2.jpg",
+    image: "assets/blogimg/bca2.jpg",
     link: "/friends",
   },
 ];

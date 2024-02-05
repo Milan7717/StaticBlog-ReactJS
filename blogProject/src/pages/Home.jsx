@@ -37,7 +37,7 @@ const Home = () => {
           className="min-h-[692px] bg-cover flex justify-center flex-col"
           style={{
             backgroundPosition: "40% 30%",
-            backgroundImage: "url('../public/assets/img/IMG_20220609_223900.jpg')",
+            backgroundImage: "url('assets/img/IMG_20220609_223900.jpg')",
           }}
         >
           <div className=" rounded-xl mt-52 sm:mt-32 lg:mx-16 lg:mt-56  bg-black bg-opacity-30 shadow-2xl">

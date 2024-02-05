@@ -7,7 +7,7 @@ const Nav = () => {
     <div>
     <Navbar  className='fixed top-0 w-full' fluid  rounded>
       <Navbar.Brand as={Link} href="/">
-        <img src="../public/assets/img/bloglogo.png" className='h-[37px] rounded-xl object-center object-center' />
+        <img src="assets/img/bloglogo.png" className='h-[37px] rounded-xl object-center object-center' />
       </Navbar.Brand>
       <Navbar.Toggle />
       <Navbar.Collapse>
