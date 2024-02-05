@@ -104,7 +104,7 @@ const Portfolio = () => {
 
             <div className="w-[100%] sm:w-[35%] md:w-[40%] bg-yellow-80 flex justify-center  ">
               <img
-                src="/public/assets/img/daurasuruwal.jpg"
+                src="../public/assets/img/daurasuruwal.jpg"
                 alt=""
                 className="rounded-lg w-[50%] md:h-[60%] lg:h-[65%] sm:h-[50%] sm:w-[100%] sm:mr-4 md:mr-0 mt-16 bg-cover  bg-cover object-center"
               />
@@ -119,7 +119,7 @@ const Portfolio = () => {
               </h1>
 
               <div className="md:h-[25rem] md:w-[25rem] h-[20rem] w-[20rem] flex relative justify-center items-center">
-                <img src="/public/assets/img/milan.jpg" alt="" className="" />
+                <img src="../public/assets/img/milan.jpg" alt="" className="" />
                 <span className="circle-spin"></span>
               </div>
               <div className="my-6 mx-2">
